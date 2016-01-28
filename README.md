@@ -10,8 +10,14 @@ Science can be fun, VERY FUN! But we are missing the point, in every opportunity
 
 Using gamification, we don't want to teach math or science. We want _every person in the world_ to re-create science from its own history of where it was needed. This is part of the educational nerve of the nway-project in which knowledge will be transfered using actual mechanisms instead of blind repetition.
 
-## Contribution
-If you are interested in, please do contribute with our innitiative by forking us and sending us our pull request.
+## Technology
+The server side of the game, keeping learning stats and game progress have been decided to be written in python.
+The frontend in Xamarim, as this game has been primarely invented to be played in a mobile phone.
 
-Here is a tutorial of how fork us and start contributing:
+## Contribution
+If you are interested in, please do contribute with our innitiative by forking us and sending us our pull request. Here is a tutorial of how fork us and start contributing:
 https://help.github.com/articles/fork-a-repo/
+
+## Game Plot
+A whole section of the *Game Plot* is included in the Wiki:
+https://github.com/nway-project/edu-game-science/wiki
