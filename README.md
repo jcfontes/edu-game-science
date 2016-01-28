@@ -15,7 +15,7 @@ The server side of the game, keeping learning stats and game progress have been 
 The frontend in Xamarim, as this game has been primarely invented to be played in a mobile phone.
 
 ## Contribution
-If you are interested in, please do contribute with our innitiative by forking us and sending us our pull request. Here is a tutorial of how fork us and start contributing:
+If you are interested in, please do contribute with our innitiative by forking us and sending us your pull request. Here is a tutorial of how fork us and start contributing:
 https://help.github.com/articles/fork-a-repo/
 
 ## Game Plot
